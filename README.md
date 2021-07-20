@@ -1,3 +1,5 @@
+# testManager
+test for browser and deno
 # what is testManager?
 testManager is ts/js tool for automation test can work on server side(deno) and client side(any browser supporting esm)
 # Why testManager?
